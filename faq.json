@@ -1,0 +1,96 @@
+[
+  {
+    "question": "Where is my order?",
+    "alternates": [
+      "Track my order",
+      "Order status",
+      "Order tracking",
+      "Where can I see my delivery?",
+      "When will my package arrive?"
+    ],
+    "answer": "You can track your order from the 'My Orders' section. Go to Account ➜ My Orders ➜ Select the order to see live tracking."
+  },
+  {
+    "question": "How do I return a product?",
+    "alternates": [
+      "Return policy",
+      "Return item",
+      "Start a return",
+      "How can I return?"
+    ],
+    "answer": "To return a product, go to My Orders ➜ Choose the order ➜ 'Return/Replace'. Pick a reason and schedule pickup. Returns are accepted within 7 days of delivery."
+  },
+  {
+    "question": "What is the refund timeline?",
+    "alternates": [
+      "When will I get my refund?",
+      "Refund processing time",
+      "Refund status"
+    ],
+    "answer": "Refunds are initiated after the item passes quality check at our warehouse. UPI/Wallet: 24–48 hours, Cards/Netbanking: 3–5 business days."
+  },
+  {
+    "question": "How can I contact support?",
+    "alternates": [
+      "Customer care number",
+      "Email support",
+      "Talk to agent",
+      "Human support"
+    ],
+    "answer": "You can reach us 24×7 via chat. For escalations, email help@yourstore.example or call +91-00000-00000 (9am–6pm IST)."
+  },
+  {
+    "question": "Do you ship internationally?",
+    "alternates": [
+      "International delivery",
+      "Ship abroad",
+      "Outside India shipping"
+    ],
+    "answer": "We currently ship only within India. International shipping will be announced on our website when available."
+  },
+  {
+    "question": "Can I change my delivery address after ordering?",
+    "alternates": [
+      "Edit address after order",
+      "Change shipping address",
+      "Update delivery address"
+    ],
+    "answer": "Address changes are possible before dispatch. Go to My Orders ➜ Select order ➜ 'Edit Address'. If already dispatched, the address can’t be changed."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "alternates": [
+      "Payment options",
+      "COD available?",
+      "Cash on delivery"
+    ],
+    "answer": "We accept UPI, Cards, Netbanking, and select Wallets. Cash on Delivery (COD) is available for eligible pin codes."
+  },
+  {
+    "question": "Is there a warranty on products?",
+    "alternates": [
+      "Warranty details",
+      "Product warranty",
+      "Guarantee"
+    ],
+    "answer": "Most electronics come with a manufacturer warranty—details are on the product page under 'Warranty'. Keep your invoice for claims."
+  },
+  {
+    "question": "How do I cancel my order?",
+    "alternates": [
+      "Cancel order",
+      "Stop my order",
+      "Order cancellation"
+    ],
+    "answer": "If the order is not dispatched, you can cancel from My Orders ➜ Select order ➜ 'Cancel'. Once dispatched, you may refuse delivery or create a return."
+  },
+  {
+    "question": "Do you have offers or coupons?",
+    "alternates": [
+      "Discounts",
+      "Promo codes",
+      "Any deals today"
+    ],
+    "answer": "Check the 'Offers' page for live deals. Apply coupon codes at checkout—eligible offers will be applied automatically."
+  }
+]
